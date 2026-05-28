@@ -1,0 +1,3 @@
+groq==0.9.0
+python-telegram-bot[payments]==20.7
+reportlab==4.2.0
